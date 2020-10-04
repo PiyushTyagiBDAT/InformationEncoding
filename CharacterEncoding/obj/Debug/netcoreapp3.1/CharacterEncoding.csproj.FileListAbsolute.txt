@@ -1,0 +1,12 @@
+D:\Information Encoding\CharacterEncoding\obj\Debug\netcoreapp3.1\CharacterEncoding.AssemblyInfoInputs.cache
+D:\Information Encoding\CharacterEncoding\obj\Debug\netcoreapp3.1\CharacterEncoding.AssemblyInfo.cs
+D:\Information Encoding\CharacterEncoding\obj\Debug\netcoreapp3.1\CharacterEncoding.csproj.CoreCompileInputs.cache
+D:\Information Encoding\CharacterEncoding\bin\Debug\netcoreapp3.1\CharacterEncoding.exe
+D:\Information Encoding\CharacterEncoding\bin\Debug\netcoreapp3.1\CharacterEncoding.deps.json
+D:\Information Encoding\CharacterEncoding\bin\Debug\netcoreapp3.1\CharacterEncoding.runtimeconfig.json
+D:\Information Encoding\CharacterEncoding\bin\Debug\netcoreapp3.1\CharacterEncoding.runtimeconfig.dev.json
+D:\Information Encoding\CharacterEncoding\bin\Debug\netcoreapp3.1\CharacterEncoding.dll
+D:\Information Encoding\CharacterEncoding\bin\Debug\netcoreapp3.1\CharacterEncoding.pdb
+D:\Information Encoding\CharacterEncoding\obj\Debug\netcoreapp3.1\CharacterEncoding.dll
+D:\Information Encoding\CharacterEncoding\obj\Debug\netcoreapp3.1\CharacterEncoding.pdb
+D:\Information Encoding\CharacterEncoding\obj\Debug\netcoreapp3.1\CharacterEncoding.genruntimeconfig.cache
